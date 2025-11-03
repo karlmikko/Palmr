@@ -1058,7 +1058,7 @@
     },
     "upload": {
       "metadata": {
-        "title": "上传文件 - Palmr",
+        "title": "上传文件 - {appName}",
         "description": "通过共享链接上传文件",
         "descriptionWithLimit": "上传文件（最多 {limit} 个文件）"
       },
