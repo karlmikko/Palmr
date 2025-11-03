@@ -1058,7 +1058,7 @@
     },
     "upload": {
       "metadata": {
-        "title": "رفع الملفات - Palmr",
+        "title": "رفع الملفات - {appName}",
         "description": "رفع الملفات عبر الرابط المشترك",
         "descriptionWithLimit": "تحميل الملفات (الحد الأقصى {limit} ملفات)"
       },

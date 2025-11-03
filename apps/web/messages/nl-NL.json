@@ -1058,7 +1058,7 @@
     },
     "upload": {
       "metadata": {
-        "title": "Bestanden Verzenden - Palmr",
+        "title": "Bestanden Verzenden - {appName}",
         "description": "Verzend bestanden via de gedeelde link",
         "descriptionWithLimit": "Upload bestanden (max {limit} bestanden)"
       },

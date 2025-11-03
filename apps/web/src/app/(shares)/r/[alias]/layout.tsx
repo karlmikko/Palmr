@@ -50,7 +50,7 @@ export async function generateMetadata({ params }: { params: { alias: string } }
   const metadata = await getReverseShareMetadata(params.alias);
   const appInfo = await getAppInfo();
 
-  const title = metadata?.name || t("reverseShares.upload.metadata.title");
+  const title = metadata?.name || t("reverseShares.upload.metadata.title", {appName: appInfo.appName || "Palmr"});
   const description =
     metadata?.description ||
     (metadata?.maxFiles

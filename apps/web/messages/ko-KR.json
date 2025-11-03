@@ -1058,7 +1058,7 @@
     },
     "upload": {
       "metadata": {
-        "title": "파일 보내기 - Palmr",
+        "title": "파일 보내기 - {appName}",
         "description": "공유된 링크를 통해 파일 보내기",
         "descriptionWithLimit": "파일 업로드 (최대 {limit}개 파일)"
       },

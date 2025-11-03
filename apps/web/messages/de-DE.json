@@ -1058,7 +1058,7 @@
     },
     "upload": {
       "metadata": {
-        "title": "Dateien senden - Palmr",
+        "title": "Dateien senden - {appName}",
         "description": "Senden Sie Dateien über den geteilten Link",
         "descriptionWithLimit": "Dateien hochladen (max. {limit} Dateien)"
       },

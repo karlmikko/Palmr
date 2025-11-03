@@ -1058,7 +1058,7 @@
     },
     "upload": {
       "metadata": {
-        "title": "Отправка файлов - Palmr",
+        "title": "Отправка файлов - {appName}",
         "description": "Отправка файлов через общую ссылку",
         "descriptionWithLimit": "Загрузить файлы (макс. {limit} файлов)"
       },

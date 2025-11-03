@@ -1058,7 +1058,7 @@
     },
     "upload": {
       "metadata": {
-        "title": "Dosya Gönder - Palmr",
+        "title": "Dosya Gönder - {appName}",
         "description": "Paylaşılan bağlantı üzerinden dosya gönderin",
         "descriptionWithLimit": "Dosya yükle (maks. {limit} dosya)"
       },
